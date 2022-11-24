@@ -1,0 +1,2 @@
+arch/x86/purgatory/sha256.o-.text-1ba3 arch/x86/purgatory/sha256.c .text sha256_final callq *%r12
+arch/x86/purgatory/sha256.o-.text-1bb3 arch/x86/purgatory/sha256.c .text sha256_final callq *%r12

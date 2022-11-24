@@ -1,0 +1,4 @@
+arch/x86/crypto/aesni-intel_asm.o-.altinstr_replacement-1b arch/x86/crypto/aesni-intel_asm.S .altinstr_replacement .altinstr_replacement callq *%r11
+arch/x86/crypto/aesni-intel_asm.o-.altinstr_replacement-39 arch/x86/crypto/aesni-intel_asm.S .altinstr_replacement .altinstr_replacement callq *%r11
+arch/x86/crypto/aesni-intel_asm.o-.text-679e arch/x86/crypto/aesni-intel_asm.S .text aesni_xts_crypt8 callq *%r11
+arch/x86/crypto/aesni-intel_asm.o-.text-68ca arch/x86/crypto/aesni-intel_asm.S .text aesni_xts_crypt8 callq *%r11

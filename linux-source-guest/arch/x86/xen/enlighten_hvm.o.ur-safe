@@ -1,0 +1,5 @@
+arch/x86/xen/enlighten_hvm.o-.init.text-147
+arch/x86/xen/enlighten_hvm.o-.init.text-1ac
+arch/x86/xen/enlighten_hvm.o-.init.text-1e2
+arch/x86/xen/enlighten_hvm.o-.init.text-20a
+arch/x86/xen/enlighten_hvm.o-.text.unlikely-4d

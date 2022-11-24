@@ -1,0 +1,2 @@
+arch/x86/kernel/ftrace_64.o-.altinstr_replacement-14 arch/x86/kernel/ftrace_64.S .altinstr_replacement .altinstr_replacement jmpq *%rdi
+arch/x86/kernel/ftrace_64.o-.entry.text-2e5 arch/x86/kernel/ftrace_64.S .entry.text return_to_handler jmpq *%rdi

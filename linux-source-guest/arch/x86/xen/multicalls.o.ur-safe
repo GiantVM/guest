@@ -1,0 +1,5 @@
+arch/x86/xen/multicalls.o-.altinstr_replacement-b
+arch/x86/xen/multicalls.o-.text-18a
+arch/x86/xen/multicalls.o-.text-29
+arch/x86/xen/multicalls.o-.text-34
+arch/x86/xen/multicalls.o-.text-de

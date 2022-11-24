@@ -1,0 +1,2 @@
+drivers/pci/host/pci-hyperv.o-.altinstr_replacement-8 drivers/pci/host/pci-hyperv.c .altinstr_replacement .altinstr_replacement callq *%r12
+drivers/pci/host/pci-hyperv.o-.text-acf drivers/pci/host/pci-hyperv.c .text hv_irq_unmask callq *%r12

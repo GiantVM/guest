@@ -1,0 +1,1 @@
+arch/x86/boot/pmjump.o-.text32-1c arch/x86/boot/pmjump.S .text32 in_pm32 jmp *%eax

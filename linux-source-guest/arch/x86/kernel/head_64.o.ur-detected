@@ -1,0 +1,1 @@
+arch/x86/kernel/head_64.o-.head.text-5b arch/x86/kernel/head_64.S .head.text secondary_startup_64 jmpq *%rax

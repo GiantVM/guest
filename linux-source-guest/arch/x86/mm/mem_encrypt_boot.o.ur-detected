@@ -1,0 +1,1 @@
+arch/x86/mm/mem_encrypt_boot.o-.text-48 arch/x86/mm/mem_encrypt_boot.S .text sme_encrypt_execute callq *%rax

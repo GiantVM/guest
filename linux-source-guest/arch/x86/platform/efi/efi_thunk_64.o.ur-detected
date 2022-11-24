@@ -1,0 +1,2 @@
+arch/x86/platform/efi/efi_thunk_64.o-.text-3a arch/x86/platform/efi/efi_thunk_64.S .text efi64_thunk callq *%rbx
+arch/x86/platform/efi/efi_thunk_64.o-.text-db arch/x86/platform/efi/efi_thunk_64.S .text efi_enter32 callq *%rdi

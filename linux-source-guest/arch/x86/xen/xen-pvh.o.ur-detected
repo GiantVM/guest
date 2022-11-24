@@ -1,0 +1,1 @@
+arch/x86/xen/xen-pvh.o-.head.text-78 arch/x86/xen/xen-pvh.S .head.text pvh_start_xen jmpq *%rax

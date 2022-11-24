@@ -1,0 +1,5 @@
+drivers/watchdog/smsc37b787_wdt.o-.exit.text-93
+drivers/watchdog/smsc37b787_wdt.o-.init.text-10e
+drivers/watchdog/smsc37b787_wdt.o-.text-11b
+drivers/watchdog/smsc37b787_wdt.o-.text-2b5
+drivers/watchdog/smsc37b787_wdt.o-.text-84

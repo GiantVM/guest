@@ -1,0 +1,2 @@
+arch/x86/crypto/camellia-aesni-avx-asm_64.o-.altinstr_replacement-1b
+arch/x86/crypto/camellia-aesni-avx-asm_64.o-.text-2e97

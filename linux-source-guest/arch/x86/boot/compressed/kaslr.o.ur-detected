@@ -1,0 +1,1 @@
+arch/x86/boot/compressed/kaslr.o-.text-589 arch/x86/boot/compressed/kaslr.c .text memparse notrack jmpq *%rdx

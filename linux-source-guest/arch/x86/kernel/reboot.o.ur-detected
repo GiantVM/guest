@@ -1,0 +1,1 @@
+arch/x86/kernel/reboot.o-.text-194 arch/x86/kernel/reboot.c .text machine_real_restart ljmp *0x20(%rax)

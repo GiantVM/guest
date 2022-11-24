@@ -1,0 +1,3 @@
+arch/x86/kvm/lapic.o-.text-b1b
+arch/x86/kvm/lapic.o-.text-b26
+arch/x86/kvm/lapic.o-.text-b81

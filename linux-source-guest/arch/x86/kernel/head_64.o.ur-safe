@@ -1,0 +1,2 @@
+arch/x86/kernel/head_64.o-.head.text-5b
+arch/x86/kernel/head_64.o-.init.text-14d

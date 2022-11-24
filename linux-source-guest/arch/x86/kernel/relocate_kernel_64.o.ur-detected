@@ -1,0 +1,1 @@
+arch/x86/kernel/relocate_kernel_64.o-.text-eb arch/x86/kernel/relocate_kernel_64.S .text identity_mapped callq *%rdx

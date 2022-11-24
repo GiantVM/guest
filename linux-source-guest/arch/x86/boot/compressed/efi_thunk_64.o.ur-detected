@@ -1,0 +1,1 @@
+arch/x86/boot/compressed/efi_thunk_64.o-.text-e8 arch/x86/boot/compressed/efi_thunk_64.S .text efi_enter32 callq *%rdi

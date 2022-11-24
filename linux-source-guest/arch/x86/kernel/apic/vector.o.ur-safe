@@ -1,0 +1,8 @@
+arch/x86/kernel/apic/vector.o-.init.text-458
+arch/x86/kernel/apic/vector.o-.irqentry.text-c3
+arch/x86/kernel/apic/vector.o-.text-1039
+arch/x86/kernel/apic/vector.o-.text-10d3
+arch/x86/kernel/apic/vector.o-.text-13c4
+arch/x86/kernel/apic/vector.o-.text-158c
+arch/x86/kernel/apic/vector.o-.text-16e3
+arch/x86/kernel/apic/vector.o-.text-1762

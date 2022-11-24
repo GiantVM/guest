@@ -1,0 +1,4 @@
+arch/x86/events/msr.o-.init.text-73
+arch/x86/events/msr.o-.text-1ff
+arch/x86/events/msr.o-.text-240
+arch/x86/events/msr.o-.text-2ff

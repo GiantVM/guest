@@ -1,0 +1,3 @@
+arch/x86/boot/compressed/head_64.o-.head.text-274 arch/x86/boot/compressed/head_64.S .head.text startup_64 jmpq *%rax
+arch/x86/boot/compressed/head_64.o-.head.text-30e arch/x86/boot/compressed/head_64.S .head.text fail jmpq *%rax
+arch/x86/boot/compressed/head_64.o-.text-5d arch/x86/boot/compressed/head_64.S .text relocated jmpq *%rax

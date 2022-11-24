@@ -1,0 +1,2 @@
+arch/x86/boot/compressed/pagetable.o-.text-18a arch/x86/boot/compressed/pagetable.c .text ident_pud_init callq *(%r12)
+arch/x86/boot/compressed/pagetable.o-.text-2cc arch/x86/boot/compressed/pagetable.c .text kernel_ident_mapping_init callq *(%r15)

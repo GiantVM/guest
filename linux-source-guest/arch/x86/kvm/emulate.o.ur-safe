@@ -1,0 +1,10 @@
+arch/x86/kvm/emulate.o-.altinstr_replacement-12
+arch/x86/kvm/emulate.o-.altinstr_replacement-1c
+arch/x86/kvm/emulate.o-.altinstr_replacement-26
+arch/x86/kvm/emulate.o-.altinstr_replacement-30
+arch/x86/kvm/emulate.o-.altinstr_replacement-8
+arch/x86/kvm/emulate.o-.text-36c8
+arch/x86/kvm/emulate.o-.text-98f2
+arch/x86/kvm/emulate.o-.text-b6d4
+arch/x86/kvm/emulate.o-.text-c118
+arch/x86/kvm/emulate.o-.text-c342

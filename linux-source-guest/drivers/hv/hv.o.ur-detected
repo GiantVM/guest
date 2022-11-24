@@ -1,0 +1,2 @@
+drivers/hv/hv.o-.altinstr_replacement-8 drivers/hv/hv.c .altinstr_replacement .altinstr_replacement callq *%rsi
+drivers/hv/hv.o-.text-186 drivers/hv/hv.c .text hv_post_message callq *%rsi

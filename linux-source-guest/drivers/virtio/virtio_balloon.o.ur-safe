@@ -1,0 +1,3 @@
+drivers/virtio/virtio_balloon.o-.text-50
+drivers/virtio/virtio_balloon.o-.text-e3b
+drivers/virtio/virtio_balloon.o-.text-e42

@@ -1,0 +1,1 @@
+arch/x86/boot/printf.o-.text-442 arch/x86/boot/printf.c .text vsprintf notrack jmp *0x0(,%edx,4)

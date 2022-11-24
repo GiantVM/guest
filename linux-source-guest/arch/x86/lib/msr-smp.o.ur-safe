@@ -1,0 +1,4 @@
+arch/x86/lib/msr-smp.o-.text-32
+arch/x86/lib/msr-smp.o-.text-76
+arch/x86/lib/msr-smp.o-.text-aa
+arch/x86/lib/msr-smp.o-.text-f9

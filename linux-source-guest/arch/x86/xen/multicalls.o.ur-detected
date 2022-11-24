@@ -1,0 +1,2 @@
+arch/x86/xen/multicalls.o-.altinstr_replacement-b arch/x86/xen/multicalls.c .altinstr_replacement .altinstr_replacement callq *%rax
+arch/x86/xen/multicalls.o-.text-18a arch/x86/xen/multicalls.c .text xen_mc_flush callq *%rax

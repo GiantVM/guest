@@ -1,0 +1,4 @@
+arch/x86/entry/entry_64.o-.altinstr_replacement-19 arch/x86/entry/entry_64.S .altinstr_replacement .altinstr_replacement jmpq *%rdi
+arch/x86/entry/entry_64.o-.altinstr_replacement-61 arch/x86/entry/entry_64.S .altinstr_replacement .altinstr_replacement callq *%rbx
+arch/x86/entry/entry_64.o-.entry.text-1ed arch/x86/entry/entry_64.S .entry.text ret_from_fork callq *%rbx
+arch/x86/entry/entry_64.o-.entry_trampoline-3a arch/x86/entry/entry_64.S .entry_trampoline entry_SYSCALL_64_trampoline jmpq *%rdi

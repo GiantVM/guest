@@ -1,0 +1,2 @@
+arch/x86/kvm/vmx.o-.altinstr_replacement-8 arch/x86/kvm/vmx.c .altinstr_replacement .altinstr_replacement callq *%rax
+arch/x86/kvm/vmx.o-.text-649 arch/x86/kvm/vmx.c .text vmx_handle_external_intr callq *%rax

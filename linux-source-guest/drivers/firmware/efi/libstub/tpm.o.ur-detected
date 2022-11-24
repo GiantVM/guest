@@ -1,0 +1,2 @@
+drivers/firmware/efi/libstub/tpm.o-.text-68 drivers/firmware/efi/libstub/tpm.c .text efi_enable_reset_attack_mitigation callq *%r10
+drivers/firmware/efi/libstub/tpm.o-.text-af drivers/firmware/efi/libstub/tpm.c .text efi_enable_reset_attack_mitigation callq *%r10

@@ -1,0 +1,1 @@
+arch/x86/kernel/acpi/wakeup_64.o-.text-55 arch/x86/kernel/acpi/wakeup_64.S .text wakeup_long64 jmpq *%rax

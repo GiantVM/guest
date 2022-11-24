@@ -1,0 +1,2 @@
+arch/x86/crypto/camellia-aesni-avx-asm_64.o-.altinstr_replacement-1b arch/x86/crypto/camellia-aesni-avx-asm_64.S .altinstr_replacement .altinstr_replacement callq *%r9
+arch/x86/crypto/camellia-aesni-avx-asm_64.o-.text-2e97 arch/x86/crypto/camellia-aesni-avx-asm_64.S .text camellia_xts_crypt_16way callq *%r9

@@ -1,0 +1,4 @@
+arch/x86/crypto/aesni-intel_asm.o-.altinstr_replacement-1b
+arch/x86/crypto/aesni-intel_asm.o-.altinstr_replacement-39
+arch/x86/crypto/aesni-intel_asm.o-.text-679e
+arch/x86/crypto/aesni-intel_asm.o-.text-68ca

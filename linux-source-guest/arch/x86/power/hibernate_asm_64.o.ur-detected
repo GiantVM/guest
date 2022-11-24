@@ -1,0 +1,2 @@
+arch/x86/power/hibernate_asm_64.o-.text-9a arch/x86/power/hibernate_asm_64.S .text restore_image jmpq *%rcx
+arch/x86/power/hibernate_asm_64.o-.text-d5 arch/x86/power/hibernate_asm_64.S .text core_restore_code jmpq *%r8

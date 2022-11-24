@@ -1,0 +1,3 @@
+arch/x86/xen/smp_pv.o-.text-16b
+arch/x86/xen/smp_pv.o-.text-1f3
+arch/x86/xen/smp_pv.o-.text-28b
